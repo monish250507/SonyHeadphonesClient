@@ -530,3 +530,8 @@ Client/imgui.ini
 
 # linux build
 Client/linux/sonyheadphonesclient.build/
+SonyHeadphonesClient-win-x64.exe.zip
+*.log
+imgui.ini
+release/
+
