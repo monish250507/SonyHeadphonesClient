@@ -1,3 +1,6 @@
 [submodule "Client/imgui"]
 	path = Client/imgui
 	url = https://github.com/ocornut/imgui.git
+[submodule "submodules/SonyHeadphonesClient-v2"]
+	path = submodules/SonyHeadphonesClient-v2
+	url = https://github.com/mos9527/SonyHeadphonesClient.git

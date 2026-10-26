@@ -67,9 +67,11 @@ So I reverse-engineered the application (for intercompatibility purposes, of cou
 ## Supported Platforms And Headsets
 
 * WH-1000-XM3: Fully works and supported
+* [WH-CH520](submodules/SonyHeadphonesClient-v2): Fully works and supported (Protocol V2 integration for 5-Band Equalizer, Clear Bass, DSEE, and battery metrics)
 * [WH-1000-XM4](https://github.com/Plutoberth/SonyHeadphonesClient/issues/29#issuecomment-792459162): Partially works, more work is needed
 * [MDR-XB950BT](https://github.com/Plutoberth/SonyHeadphonesClient/issues/29#issuecomment-804292227): Fully works
 * And more! Check out [Headset Reports](https://github.com/Plutoberth/SonyHeadphonesClient/issues/29)
+
 
 #### **Please report about your experiences using other Sony headsets in the [Headset Reports](https://github.com/Plutoberth/SonyHeadphonesClient/issues/29) issue.**
 
